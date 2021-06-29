@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pirates-Bonus-Anim
+  m_Controller: {fileID: 9100000, guid: 98690c0989e23844c894a63cc88ca55c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bc4223ab436c7a0499acfc7e49e50957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 69b3c1bbcd3837846bb427df8c76d178, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3234233362f25534b86ff5272af01fb6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 483e3ddae718fde4ab6ccd16e1139972, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5fa19b4a17f2f7d418c93b3306cf9a84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3fac9f76a1676654dba9e0efedb55646, type: 2}

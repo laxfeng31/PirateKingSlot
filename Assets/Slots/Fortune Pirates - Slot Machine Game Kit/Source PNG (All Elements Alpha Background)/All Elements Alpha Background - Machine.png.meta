@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: f08c706a0062d6b46b7a6e4e3c0c583e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: All Elements Alpha Background - Machine_0
+    21300002: All Elements Alpha Background - Machine_1
+    21300004: All Elements Alpha Background - Machine_2
+    21300006: All Elements Alpha Background - Machine_3
+    21300008: All Elements Alpha Background - Machine_4
+    21300010: All Elements Alpha Background - Machine_5
+    21300012: All Elements Alpha Background - Machine_6
+    21300014: All Elements Alpha Background - Machine_7
+    21300016: All Elements Alpha Background - Machine_8
+    21300018: All Elements Alpha Background - Machine_9
+    21300020: All Elements Alpha Background - Machine_10
+    21300022: All Elements Alpha Background - Machine_11
+    21300024: All Elements Alpha Background - Machine_12
+    21300026: All Elements Alpha Background - Machine_13
+    21300028: All Elements Alpha Background - Machine_14
+    21300030: All Elements Alpha Background - Machine_15
+    21300032: All Elements Alpha Background - Machine_16
+    21300034: All Elements Alpha Background - Machine_17
+    21300036: All Elements Alpha Background - Machine_18
+    21300038: All Elements Alpha Background - Machine_19
+    21300040: All Elements Alpha Background - Machine_20
+    21300042: All Elements Alpha Background - Machine_21
+    21300044: All Elements Alpha Background - Machine_22
+    21300046: All Elements Alpha Background - Machine_23
+    21300048: All Elements Alpha Background - Machine_24
+    21300050: All Elements Alpha Background - Machine_25
+    21300052: All Elements Alpha Background - Machine_26
+    21300054: All Elements Alpha Background - Machine_27
+    21300056: All Elements Alpha Background - Machine_28
+    21300058: All Elements Alpha Background - Machine_29
+    21300060: All Elements Alpha Background - Machine_30
+    21300062: All Elements Alpha Background - Machine_31
+    21300064: All Elements Alpha Background - Machine_32
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_0
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2245
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e9a5a2a880e843b5188aba8afa718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_1
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2059
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138ba27f06a75e4f8d75618742da25c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_2
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2050
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37986bfead1384180bfb2d4b6d3723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_3
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2050
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde3ba227088244cb236d2e1b144be6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_4
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2234
+        width: 147
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112fd102dc84f74087e8bd27f8abde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_5
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2233
+        width: 185
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76694550d64003d44b95a0be26983c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2078
+        width: 178
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c77a3e7f817f84aa6bc05351f4e5e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2098
+        width: 735
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd319a1c8ba4b741a42b4ecdac1988c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2098
+        width: 189
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8cb5416b3ff8d47a52126465cd3dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_9
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2036
+        width: 259
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051eb6a2756f19459b412d38fe77914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_10
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 2071
+        width: 735
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f50d85dff8169c4981bccbadd806ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2043
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fa1dc2f33ff9449c169c394e3adbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2043
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073408b7ec21b174fbd546173b2508f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2043
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca9a0204ced224f935feb2bd0d4089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2040
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c58be952a386e4a95750533e85a481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2036
+        width: 132
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3af15702f9174439a094f65a527048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2040
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69abc11f4dfd974ab0f19b2d44aa2df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2040
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdda2da6ae1142479d30f162eaf9f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2036
+        width: 133
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324d2b5d9069a44b849b3827db8802c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_19
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2040
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab3b29150321845a4ed9ed9c62094b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2040
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38277bd8c9d2d4044b6c32f449fdb055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_21
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2036
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa413a3e8611dcf4a8cfabf062a8e718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2040
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8125efe9eb4b74091c64e247ca5076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_23
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2036
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8168ba306a97446be79b063ea5cf8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2036
+        width: 189
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c2b80cc218b14f9c2339141e00534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_25
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1904
+        width: 189
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df19a9e9f5a4d9940afc9c5fe5269e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_26
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1904
+        width: 260
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afac3bc7752e144979c43d60cd82a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_27
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1119
+        width: 19
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac55847f894e9c44bfeccad4cb02a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_28
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 999
+        width: 1592
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6addbb462ac8435458daaf8609cb4827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1568
+        width: 1446
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d09c67e873f45b42aa2cb81c2888f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1347
+        width: 1402
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387a195305c9ed41a2ad41b03065a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 101
+        width: 1404
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409cae655169a8540bec1bbd014090d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All Elements Alpha Background - Machine_32
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 84
+        width: 1426
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da234ba50e66cff4ab4760355b7d48a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce7133f9f0768294cbabf100f9ceb4b3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

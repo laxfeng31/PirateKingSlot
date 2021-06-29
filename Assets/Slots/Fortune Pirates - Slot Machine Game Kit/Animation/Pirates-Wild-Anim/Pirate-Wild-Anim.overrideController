@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pirate-Wild-Anim
+  m_Controller: {fileID: 9100000, guid: 98690c0989e23844c894a63cc88ca55c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bc4223ab436c7a0499acfc7e49e50957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1e52b5fb5baa79444be8391190bb9c22, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3234233362f25534b86ff5272af01fb6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 506787ca1b741154b83acc189fc5d0f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5fa19b4a17f2f7d418c93b3306cf9a84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a801efd0006e6c84cb55bc6b8d61c52f, type: 2}

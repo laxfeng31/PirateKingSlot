@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pirate-Free-Anim
+  m_Controller: {fileID: 9100000, guid: 98690c0989e23844c894a63cc88ca55c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bc4223ab436c7a0499acfc7e49e50957, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c447ebe2d6913ee4e9f05d3d8622795d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3234233362f25534b86ff5272af01fb6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4dd8e7e3e84c1c54a8b1993c5536d557, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5fa19b4a17f2f7d418c93b3306cf9a84, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea62d92710eb8ca44b29371679ea7c41, type: 2}
